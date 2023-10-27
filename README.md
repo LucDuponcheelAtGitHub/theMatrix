@@ -9,11 +9,11 @@
 
 Running `theMatrix` with first command line argument `input.csv` 
 
-https://github.com/PSBP-Library/theMatrix/blob/main/input.csv
+https://github.com/LucDuponcheelAtGitHub/theMatrix/blob/main/input.csv
 
 and second command line argument `output.csv`, creates `output.csv`
 
-https://github.com/PSBP-Library/theMatrix/blob/main/output.csv
+https://github.com/LucDuponcheelAtGitHub/theMatrix/blob/main/output.csv
 
 (assuming `output.csv` does not exist).
 
